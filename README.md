@@ -42,4 +42,4 @@
 # Presentation File
 
 The complete project presentation (used during final evaluation) is available in this repository:  
-➡️ **[Click here to view the PPT](./your-ppt-file-name.pptx)**
+➡️ **[Click here to view the PPT](https://github.com/Narendrakahar/React.js)**
