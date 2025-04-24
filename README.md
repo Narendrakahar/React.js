@@ -41,7 +41,7 @@
 
 # Presentation File
 The complete project presentation (used during final evaluation) is available in this repository:  
-➡️ **[Click here to view the PPT](https://github.com/Narendrakahar/React.js/blob/main/Wanderlust-adventures%20PPT.pdf)**
+➡️ **[Click here to view the PPT](https://github.com/Narendrakahar/React.js/blob/main/Wanderlust-Adventures%20PPT.pdf)**
 
 # Contact
 Feel free to connect with me for collaboration, suggestions, or internship opportunities:
